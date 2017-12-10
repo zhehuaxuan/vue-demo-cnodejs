@@ -1,0 +1,11 @@
+@import 'common'; // 引入的父类scss
+.header{
+    border-bottom:$border-bottom-1 $gray;
+}
+.copy{
+    border-top:$border-up-1 $gray;
+}
+.article_list{
+    width: 100%;
+    height: 800px;
+}
